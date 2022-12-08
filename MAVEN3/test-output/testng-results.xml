@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-29T14:28:09 IST" name="Suite" finished-at="2022-10-29T14:28:09 IST" duration-ms="137">
+    <groups>
+      <group name="Regression">
+        <method signature="Groups.tc2()[pri:1, instance:demo125.Groups@4d0f2471]" name="tc2" class="demo125.Groups"/>
+        <method signature="Groups.tc4()[pri:2, instance:demo125.Groups@4d0f2471]" name="tc4" class="demo125.Groups"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2022-10-29T14:28:09 IST" name="Test" finished-at="2022-10-29T14:28:09 IST" duration-ms="137">
+      <class name="demo125.Groups">
+        <test-method signature="tc2()[pri:1, instance:demo125.Groups@4d0f2471]" started-at="2022-10-29T14:28:09 IST" name="tc2" finished-at="2022-10-29T14:28:09 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc4()[pri:2, instance:demo125.Groups@4d0f2471]" started-at="2022-10-29T14:28:09 IST" name="tc4" finished-at="2022-10-29T14:28:09 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- demo125.Groups -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
